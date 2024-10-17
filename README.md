@@ -19,5 +19,20 @@ To run this project, you will need the following:<br><br>
 Android Studio or VS Code (for testing on Android/iOS)<br>
 A Device Emulator or a physical device<br>
 
+## 📱 Platforms
+This app supports Android platform.
+
+## 💻 Requirements
+Flutter SDK (>= 3.19.0)<br>
+Dart (>= 3.3)<br>
+Android Studio or VS Code or a connected device<br>
+
+## 📬 Contact
+If you have any questions or suggestions, feel free to reach out!<br><br>
+
+Poorvi Gupta<br>
+poorviguptacom@gmail.com<br>
+Linkedin: https://www.linkedin.com/in/poorvi-gupta-a817032a0<br>
+
 ##
 Thank you for checking out this project! 🎉 Happy coding and building your very own e-commerce app! 🛒💻
